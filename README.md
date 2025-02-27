@@ -18,4 +18,4 @@
 
 ## 许可证
 
-This project is licensed under the terms of the GNU General Public License v3.0. See the [LICENSE](https://github.com/Fadouse/USACO-2025-February-Gold-Solution/blob/main/LICENSE) 文件。
+This project is licensed under the terms of the GNU General Public License v3.0. See the [LICENSE](https://github.com/Fadouse/USACO-2025-February-Gold-Solution/blob/main/LICENSE) File.
