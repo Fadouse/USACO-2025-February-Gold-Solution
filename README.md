@@ -1,6 +1,6 @@
 # USACO 2025 February Gold Solution
 
-本仓库包含了 USACO 2025 二月金组题目的解决方案。
+本仓库包含了 USACO 2025 二月金组题目的解决方案 (第二题超时了 :(
 
 ## 题目列表
 
